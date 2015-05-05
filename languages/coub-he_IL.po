@@ -1,0 +1,37 @@
+# Copyright (C) 2015 Coub
+# This file is distributed under the same license as the Coub package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Coub 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/coub\n"
+"POT-Creation-Date: 2015-04-17 00:26:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-05-03 00:20+0200\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Rami Y <r_a_m_i@hotmail.com>\n"
+"Language-Team: Rami Yushuvaev <r_a_m_i@hotmail.com>\n"
+"Language: he_IL\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Coub"
+msgstr "Coub"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/coub/"
+msgstr "https://wordpress.org/plugins/coub/"
+
+#. Description of the plugin/theme
+msgid "Embed coub.com looped videos into your WordPress site"
+msgstr "הטמעת קטעי וידאו מתוך coub.com באתרי וורדפרס"
+
+#. Author of the plugin/theme
+msgid "Rami Yushuvaev"
+msgstr "רמי יושובייב"
+
+#. Author URI of the plugin/theme
+msgid "http://GenerateWP.com/"
+msgstr "http://GenerateWP.com/"
