@@ -21,7 +21,7 @@ msgid "https://wordpress.org/plugins/coub/"
 msgstr ""
 
 #. Description of the plugin/theme
-msgid "Embed coub.com looped videos into your WordPress site"
+msgid "Embed looped videos with audio from coub.com into your WordPress site."
 msgstr ""
 
 #. Author of the plugin/theme
@@ -29,5 +29,5 @@ msgid "Rami Yushuvaev"
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "http://GenerateWP.com/"
+msgid "https://GenerateWP.com/"
 msgstr ""
