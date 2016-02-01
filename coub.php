@@ -3,11 +3,10 @@
 Plugin Name: Coub
 Plugin URI:  https://wordpress.org/plugins/coub/
 Description: Embed looped videos with audio from coub.com into your WordPress site.
-Version:     1.2
+Version:     1.3
 Author:      Rami Yushuvaev
 Author URI:  https://GenerateWP.com/
 Text Domain: coub
-Domain Path: /languages
 */
 
 
@@ -21,6 +20,19 @@ Domain Path: /languages
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
+
+
+
+/*
+ * Plugin textdomain
+ * Load plugin textdomain.
+ *
+ * @since 1.3
+ */
+function coub_load_textdomain() {
+	load_plugin_textdomain( 'coub' );
+}
+add_action( 'plugins_loaded', 'coub_load_textdomain' );
 
 
 
